@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+  <title>Palabrotas</title>
+    <link rel="stylesheet" href="css/palabrastyle.css">
+  <script src="js/palabrascript.js"></script>
+</head>
+
+<body bgcolor="lightgreen">
+	<h3><p><center>Texto a scribir</p></h3>
+	<textarea id='texto'> </textarea>
+</center>
+	<br>
+	<br>
+	<br>
+	Cantidad cantidad de garabatos encontrados : <input type="text" id="palabrotas" value="0">
+</body>
+
+</html>
